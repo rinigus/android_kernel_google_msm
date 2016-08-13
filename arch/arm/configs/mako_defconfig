@@ -559,6 +559,9 @@ CONFIG_CGROUP_DEVICE=y
 CONFIG_BLK_CGROUP=y
 CONFIG_BT_HCISMD=y
 
+# Low CPU frequencies
+CONFIG_CPU_UNDERCLOCK=y
+
 ###################################################
 # Added after comparing with current CM
 CONFIG_AIO=y
